@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/online-pizza/static/css/main.e6dcaf00.chunk.css",
-    "main.js": "/online-pizza/static/js/main.b874e306.chunk.js",
-    "main.js.map": "/online-pizza/static/js/main.b874e306.chunk.js.map",
+    "main.js": "/online-pizza/static/js/main.4edf4948.chunk.js",
+    "main.js.map": "/online-pizza/static/js/main.4edf4948.chunk.js.map",
     "runtime-main.js": "/online-pizza/static/js/runtime-main.16fb28a5.js",
     "runtime-main.js.map": "/online-pizza/static/js/runtime-main.16fb28a5.js.map",
     "static/css/2.7844fb40.chunk.css": "/online-pizza/static/css/2.7844fb40.chunk.css",
     "static/js/2.7c5c830a.chunk.js": "/online-pizza/static/js/2.7c5c830a.chunk.js",
     "static/js/2.7c5c830a.chunk.js.map": "/online-pizza/static/js/2.7c5c830a.chunk.js.map",
     "index.html": "/online-pizza/index.html",
-    "precache-manifest.6cc4d4bcd008e4c79201c4d049d85c5f.js": "/online-pizza/precache-manifest.6cc4d4bcd008e4c79201c4d049d85c5f.js",
+    "precache-manifest.477b3006f7e6d8ffad02c357f5b0f294.js": "/online-pizza/precache-manifest.477b3006f7e6d8ffad02c357f5b0f294.js",
     "service-worker.js": "/online-pizza/service-worker.js",
     "static/css/2.7844fb40.chunk.css.map": "/online-pizza/static/css/2.7844fb40.chunk.css.map",
     "static/css/main.e6dcaf00.chunk.css.map": "/online-pizza/static/css/main.e6dcaf00.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.7844fb40.chunk.css",
     "static/js/2.7c5c830a.chunk.js",
     "static/css/main.e6dcaf00.chunk.css",
-    "static/js/main.b874e306.chunk.js"
+    "static/js/main.4edf4948.chunk.js"
   ]
 }

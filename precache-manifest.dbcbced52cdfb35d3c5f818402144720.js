@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36f8c913ce79ac356b61e9911c998b74",
+    "revision": "f4a56818c96fcd8beb1568af4c1aa707",
     "url": "/online-pizza/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/online-pizza/static/css/2.7844fb40.chunk.css"
   },
   {
-    "revision": "d85ffed680dc5162e38a",
+    "revision": "4c152a665244131e8775",
     "url": "/online-pizza/static/css/main.e6dcaf00.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/online-pizza/static/js/2.7c5c830a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d85ffed680dc5162e38a",
-    "url": "/online-pizza/static/js/main.660c2dfd.chunk.js"
+    "revision": "4c152a665244131e8775",
+    "url": "/online-pizza/static/js/main.33a12130.chunk.js"
   },
   {
     "revision": "7e110b639fcf27c1a301",

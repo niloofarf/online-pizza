@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/online-pizza/static/css/main.90326e52.chunk.css",
-    "main.js": "/online-pizza/static/js/main.89e8a654.chunk.js",
-    "main.js.map": "/online-pizza/static/js/main.89e8a654.chunk.js.map",
+    "main.css": "/online-pizza/static/css/main.32c58560.chunk.css",
+    "main.js": "/online-pizza/static/js/main.92e75f3b.chunk.js",
+    "main.js.map": "/online-pizza/static/js/main.92e75f3b.chunk.js.map",
     "runtime-main.js": "/online-pizza/static/js/runtime-main.16fb28a5.js",
     "runtime-main.js.map": "/online-pizza/static/js/runtime-main.16fb28a5.js.map",
     "static/css/2.7844fb40.chunk.css": "/online-pizza/static/css/2.7844fb40.chunk.css",
-    "static/js/2.823bdcf0.chunk.js": "/online-pizza/static/js/2.823bdcf0.chunk.js",
-    "static/js/2.823bdcf0.chunk.js.map": "/online-pizza/static/js/2.823bdcf0.chunk.js.map",
+    "static/js/2.52280723.chunk.js": "/online-pizza/static/js/2.52280723.chunk.js",
+    "static/js/2.52280723.chunk.js.map": "/online-pizza/static/js/2.52280723.chunk.js.map",
     "index.html": "/online-pizza/index.html",
-    "precache-manifest.b4c8f6b9e03895902143ceac28ecf156.js": "/online-pizza/precache-manifest.b4c8f6b9e03895902143ceac28ecf156.js",
+    "precache-manifest.f61b220559c26e24f5d9678fe777d00f.js": "/online-pizza/precache-manifest.f61b220559c26e24f5d9678fe777d00f.js",
     "service-worker.js": "/online-pizza/service-worker.js",
     "static/css/2.7844fb40.chunk.css.map": "/online-pizza/static/css/2.7844fb40.chunk.css.map",
-    "static/css/main.90326e52.chunk.css.map": "/online-pizza/static/css/main.90326e52.chunk.css.map",
-    "static/js/2.823bdcf0.chunk.js.LICENSE.txt": "/online-pizza/static/js/2.823bdcf0.chunk.js.LICENSE.txt",
+    "static/css/main.32c58560.chunk.css.map": "/online-pizza/static/css/main.32c58560.chunk.css.map",
+    "static/js/2.52280723.chunk.js.LICENSE.txt": "/online-pizza/static/js/2.52280723.chunk.js.LICENSE.txt",
     "static/media/index.css": "/online-pizza/static/media/footerbg.c231e9a1.jpg",
     "static/media/slick-theme.css": "/online-pizza/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.16fb28a5.js",
     "static/css/2.7844fb40.chunk.css",
-    "static/js/2.823bdcf0.chunk.js",
-    "static/css/main.90326e52.chunk.css",
-    "static/js/main.89e8a654.chunk.js"
+    "static/js/2.52280723.chunk.js",
+    "static/css/main.32c58560.chunk.css",
+    "static/js/main.92e75f3b.chunk.js"
   ]
 }

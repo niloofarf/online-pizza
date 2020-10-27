@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05bea8d752a52cf1804b4e367795b647",
+    "revision": "3911c5ffd9e607377fb065b0ca20a25e",
     "url": "/online-pizza/index.html"
   },
   {
-    "revision": "25dcc77ebbfd8c532deb",
+    "revision": "e22fdd601a00975a7f23",
     "url": "/online-pizza/static/css/2.7844fb40.chunk.css"
   },
   {
-    "revision": "a0ee39b97c5e84d69ede",
+    "revision": "01fe237ea289230168a0",
     "url": "/online-pizza/static/css/main.90326e52.chunk.css"
   },
   {
-    "revision": "25dcc77ebbfd8c532deb",
-    "url": "/online-pizza/static/js/2.a37999f2.chunk.js"
+    "revision": "e22fdd601a00975a7f23",
+    "url": "/online-pizza/static/js/2.823bdcf0.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/online-pizza/static/js/2.a37999f2.chunk.js.LICENSE.txt"
+    "url": "/online-pizza/static/js/2.823bdcf0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0ee39b97c5e84d69ede",
-    "url": "/online-pizza/static/js/main.5c627e95.chunk.js"
+    "revision": "01fe237ea289230168a0",
+    "url": "/online-pizza/static/js/main.89e8a654.chunk.js"
   },
   {
     "revision": "7e110b639fcf27c1a301",
